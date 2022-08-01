@@ -48,4 +48,4 @@ These folk inspired the project, or created works that would have made this othe
 
 ## Liscense & Feedack/Help
 
-All files are liscensed under [GNU GPL V3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), so be sure to upload the source to any modifications you indend to share online. Would love to see what you make in the [Game Boy Camera Club Discord](https://discord.gg/C7WFJHG) where you can also ask for help if you are having any troubles with the files, or printing.
+All files are liscensed under [GNU GPL V3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), so be sure to upload the source to any modifications you indend to share online. Would love to see what you make in the [Game Boy Camera Club Discord](https://discord.gg/C7WFJHG) where you can also ask for help if you are having any troubles with the files, or printing. Lastly if you enjoyed, consider grabbing me a [Coffee](https://ko-fi.com/hatch) ;)
