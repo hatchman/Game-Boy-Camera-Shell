@@ -3,7 +3,7 @@ Original Gameboy Camera shell 1:1 remodeling from scratch
 
 Repo includes source 3D files, printable models, & sticker templates for use with original mounting hardware
 
-<img src="BuildImages/Process&Results.png" width="1000">
+<img src="BuildImages/Process&Results.png" width="800">
 
 ## The Files:
 
@@ -20,7 +20,7 @@ Versions include:
 
 For FFF Thermoplastic reel printers, objects are oriented so that supports face the inside of the shell components to minimize surface scarring. Parts are also tilted to provide more strength on the large thin walls of the cartridge shell, vs printing them vertically.
 
-<img src="BuildImages/FDMOrientation.png" height="500"><img src="BuildImages/FDM1.png" height="500">
+<img src="BuildImages/FDMOrientation.png" height="400"><img src="BuildImages/FDM1.png" height="400">
 
 Success was achieved using a standard (0.4mm) nozzle at 0.1-0.2mm layer height, at slow speeds (sub 30mm/s) with high temperatures (220-225C) and significant cooling for a combination of strength and accuracy.
 
@@ -30,7 +30,7 @@ For the most notable settings, it is important to adjust thin wall parameters, a
 
 For photo-sensitive resin based 3D printers, it is important to tilt the objects in 2 dimensions, in order to minimize surface tensions while printing large flat objects. Unlike FFF, supports are placed on the **exterior** visible surfaces, as convex outer surfaces are easier to sand flat after support removal.
 
-<img src="BuildImages/ResinOrientation.png" width="500"><img src="BuildImages/GlamCartRear1.png" width="500">
+<img src="BuildImages/ResinOrientation.png" width="400"><img src="BuildImages/GlamCartRear1.png" width="400">
 
 For resin parts, it is also important to thread all screw post with the original screws very slowly, and gently. Make sure to clear all holes from debris before attempting to install screws. Screws should be installed **after** cleaning parts, but **before** doing a final post cure of the resin. Parts should then be sanded smooth, and re-cleaned before sealing. Screws should remain installed during all post curing, as well as during application of a sealer/paint/clear-coat to retain shape, and to prevent clogging with debris.
 
